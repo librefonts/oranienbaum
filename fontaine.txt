@@ -1,0 +1,98 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Oranienbaum
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2012, Oleg Pospelov (oleg@pospelov.com), Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Oranienbaum'
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.001
+    Vendor: Oleg Pospelov and jovanny Lemonad
+    Vendor url: http://jovanny.ru/
+    Designer: Oleg Pospelov and Jovanny Lemonad
+    Designer url: http://pospelov.com/
+    Glyph count: 418
+    Character count: 413
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 94
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 11
+  Font:
+    Common name: Oranienbaum
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2012, Oleg Pospelov (oleg@pospelov.com), Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Oranienbaum'
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.001; ttfautohint (v0.91) -l 8 -r 50 -G 200 -x 0 -w "gGD"
+    Vendor: Oleg Pospelov and jovanny Lemonad
+    Vendor url: http://jovanny.ru/
+    Designer: Oleg Pospelov and Jovanny Lemonad
+    Designer url: http://pospelov.com/
+    Glyph count: 419
+    Character count: 413
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 94
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 11
